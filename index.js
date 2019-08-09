@@ -33,5 +33,5 @@ function inc(n) {
 var n = 5
 
 function dec(n) {
-  return(n =- 0)
+  return(n =- 1)
 }
