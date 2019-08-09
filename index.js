@@ -30,6 +30,8 @@ function inc(n) {
 //   return(parseFloat('n', 10))
 // }
 
+var n = 5
+
 function dec(n) {
   return(n =- 0)
 }
